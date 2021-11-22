@@ -11,6 +11,7 @@ function App() {
       <header style={{background:'green',textAlign:'center'}}>
         <h1 style={{fontWeight:'bold'}}>hello</h1>
         <h1 style={{fontWeight:'bold'}}>Dòng này thêm ở brand master</h1>
+        <h1 style={{fontWeight:'bold'}}>Thêm 1 dòng này ở brand master</h1>
       </header>
     </div>
   );
