@@ -1,0 +1,7 @@
+{
+  "beta": {
+    "configLevel": "project",
+    "useProfile": true,
+    "profileName": "cicd"
+  }
+}

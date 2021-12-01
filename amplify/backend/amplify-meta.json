@@ -26,7 +26,7 @@
         "IdentityPoolName": "cicd089de692_identitypool_089de692__beta",
         "UserPoolName": "cicd089de692_userpool_089de692"
       },
-      "lastPushTimeStamp": "2021-12-01T07:51:51.642Z",
+      "lastPushTimeStamp": "2021-12-01T08:19:47.617Z",
       "providerMetadata": {
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-cicd-beta-172626-deployment/amplify-cfn-templates/auth/cicd089de692-cloudformation-template.yml",
         "logicalId": "authcicd089de692"
@@ -39,7 +39,7 @@
       "providerPlugin": "awscloudformation",
       "type": "manual",
       "output": {},
-      "lastPushTimeStamp": "2021-12-01T07:51:51.646Z",
+      "lastPushTimeStamp": "2021-12-01T08:19:47.622Z",
       "providerMetadata": {
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-cicd-beta-172626-deployment/amplify-cfn-templates/hosting/amplifyhosting-template.json",
         "logicalId": "hostingamplifyhosting"
